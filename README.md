@@ -1,1 +1,38 @@
-# Route-Optimization a
+# Zorang Delivery Optimization Project
+
+## Overview
+Optimizing delivery routes to minimize delivery time and ensure efficient parcel delivery using algorithmic solutions.
+
+## Objectives
+- Deliver 100 parcels using 10 delivery agents.
+- Ensure efficient route planning and agent utilization.
+- Facilitate agents' return to the store post-delivery.
+
+## Features
+- **Backend Calculations (`First.py`):** Handles logistics calculations.
+- **Frontend Visualization (`Final.py`):** Displays routes using Google Maps API.
+
+## Approach
+- Initial solution using Round-Robin distribution.
+- Exploring K-Means Clustering and Clark-Wright Savings Algorithm for optimization.
+
+## Assumptions
+- Simultaneous order readiness.
+- Uniform agent speed.
+- Straight-line distance consideration between coordinates.
+
+## Installation and Setup
+Instructions on setting up and running the project.
+
+## Usage
+How to use the application with examples.
+
+## Contributing
+Guidelines for contributing to the project.
+
+## License
+Details of the project license.
+
+## Contact
+Your contact information for collaboration or queries.
+
