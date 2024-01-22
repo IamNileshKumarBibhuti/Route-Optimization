@@ -1,7 +1,5 @@
 # Zorang Delivery Optimization Project
-
----
-
+&nbsp;
 ## Overview
 Optimizing delivery routes to minimize delivery time and ensure efficient parcel delivery using algorithmic solutions.
 
