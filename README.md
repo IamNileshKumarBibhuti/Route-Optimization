@@ -2,7 +2,9 @@
 
 ## Overview
 Optimizing delivery routes to minimize delivery time and ensure efficient parcel delivery using algorithmic solutions.
-
+Video Overview
+[Insert Video Link Here]
+A brief video presentation that provides an overview of the Zorang Delivery Optimization Project. This video will offer visual insights into the project's goals, strategies, and potential impact.
 ## Objectives
 - Deliver 100 parcels using 10 delivery agents.
 - Ensure efficient route planning and agent utilization.
